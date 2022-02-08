@@ -1,0 +1,13 @@
+{
+  "name": "aficher/328/week6",
+  "description": "Week 6 project",
+  "authors": [
+    {
+      "name": "Alex Fischer",
+      "email": "fischer.alex@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
